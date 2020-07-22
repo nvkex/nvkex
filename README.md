@@ -24,7 +24,7 @@ Heroku • Netlify
 
 Thanks for reading about me. You can connect with me on ..
 
-* [Sourcerer](https://sourcerer.com/nvkex)
+* [Sourcerer](https://sourcerer.io/nvkex)
 
 * [Linkedin](https://www.linkedin.com/in/nvkex)
 
