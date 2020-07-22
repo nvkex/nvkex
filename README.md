@@ -1,16 +1,39 @@
-### Hi there 👋
+## 💖 to Build Web Apps — Full-Stack Developer!
 
-<!--
-**nvkex/nvkex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Sumit Bhardwaj — a **Web Developer** building some real stuff. Web Development is something which coincides with my passion and hobby. Always up for a discussion on softwares, business and other opportunity. ✌😏
 
-Here are some ideas to get you started:
+## I work on .. 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Node.js • React.js • Vue.js • Django
+
+Oracle SQL • MongoDB • MySQL • Redis • GraphQL
+
+JavaScript • Java • C • Python 
+
+Heroku • Netlify
+
+## Something about me .. :bowtie:
+
+💻 I love _Programming_ and developing new stuffs
+
+🎮 Moding & Playing RPG _Games_
+
+🎵 _Producing Music_ and nothing.
+
+## Thank you and नमस्ते ! 🙏
+
+Thanks for reading about me. You can connect with me on ..
+
+* [Sourcerer](https://sourcerer.com/nvkex)
+
+* [Linkedin](https://www.linkedin.com/in/nvkex)
+
+* [Instagram](https://www.instagram.com/nvkex/)
+
+* [Twitter](https://www.twitter.com/nvkex/)
+
+* [Youtube](https://www.youtube.com/channel/UCtjIO4smbuyr7wjKHJQKZ8g)
+
+<p align="center">
+  <img align='center' src="https://visitor-badge.laobi.icu/badge?page_id=nvkex.visitor-badge">
+</p>
