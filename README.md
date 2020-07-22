@@ -18,7 +18,7 @@ Heroku • Netlify
 
 🎮 Moding & Playing RPG _Games_
 
-🎵 _Producing Music_ and nothing.
+🎵 _Producing Music_.
 
 ## Thank you and नमस्ते ! 🙏
 
