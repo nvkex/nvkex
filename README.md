@@ -4,7 +4,7 @@ Hi, I'm Sumit Bhardwaj — a **Web Developer** building some real stuff. Web Dev
 
 ## I work on .. 💻
 
-Node.js • React.js • Vue.js • Django
+React.js • Node.js • Vue.js
 
 MongoDB • Oracle SQL • MySQL • Firebase • GraphQL
 
