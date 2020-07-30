@@ -6,7 +6,7 @@ Hi, I'm Sumit Bhardwaj — a **Web Developer** building some real stuff. Web Dev
 
 Node.js • React.js • Vue.js • Django
 
-MongoDB • Oracle SQL • MySQL • Firebase • Redis • GraphQL
+MongoDB • Oracle SQL • MySQL • Firebase • GraphQL
 
 JavaScript • Java • C • Python 
 
