@@ -4,13 +4,15 @@ Hi, I'm Sumit Bhardwaj — a **Web Developer** building some real stuff. Web Dev
 
 ## I work on .. 💻
 
-React.js • Node.js • Vue.js
+:bomb: React.js • Vue.js
 
-MongoDB • Oracle SQL • MySQL • Firebase
+:bomb: Node.js 
 
-JavaScript • Java • C • Python 
+:bomb: MongoDB • Oracle SQL • MySQL • Firebase
 
-Heroku • Netlify
+:bomb: JavaScript • Java • C • Python 
+
+:bomb: Heroku • Netlify
 
 ## Something about me .. :bowtie:
 
