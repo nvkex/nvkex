@@ -8,7 +8,7 @@ Hi, I'm Sumit Bhardwaj — a **Web Developer** building some real stuff. Web Dev
 
 :rocket: Node.js 
 
-:bank: MongoDB • Oracle SQL • MySQL • Firebase
+:bank: MongoDB • Oracle SQL • Firebase
 
 :bike: JavaScript • Java • C • Python 
 
