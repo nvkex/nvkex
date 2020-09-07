@@ -37,6 +37,7 @@ Thanks for reading about me. You can connect with me on ..
 * [Youtube](https://www.youtube.com/channel/UCtjIO4smbuyr7wjKHJQKZ8g)
 
 <p align="center">
-  <img align='center' src="https://github-readme-stats.vercel.app/api?username=nvkex&show_icons=true"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=nvkex&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvkex">
   <img align='center' src="https://visitor-badge.laobi.icu/badge?page_id=nvkex.visitor-badge">
 </p>
