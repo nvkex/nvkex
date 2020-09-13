@@ -26,15 +26,15 @@ Hi, I'm Sumit Bhardwaj — a **Web Developer** building some real stuff. Web Dev
 
 Thanks for reading about me. You can connect with me on ..
 
-* [Linkedin](https://www.linkedin.com/in/nvkex)
+* <a href="https://www.linkedin.com/in/nvkex/"><img src="https://img.shields.io/badge/-Linkedin-333333?style=for-the-badge&logo=linkedin"/></a>
 
-* [Sourcerer](https://sourcerer.io/nvkex)
+* <a href="https://sourcerer.io/nvkex"><img src="https://img.shields.io/badge/-Sourcerer-333333?style=for-the-badge&logo=sourcerer"/></a>
 
-* [Instagram](https://www.instagram.com/nvkex/)
+* <a href="https://www.instagram.com/nvkex/"><img src="https://img.shields.io/badge/-Sourcerer-333333?style=for-the-badge&logo=sourcerer"/></a>
 
-* [Twitter](https://www.twitter.com/nvkex/)
+* <a href="https://www.twitter.com/nvkex/"><img src="https://img.shields.io/badge/-Twitter-333333?style=for-the-badge&logo=twitter"/></a>
 
-* [Youtube](https://www.youtube.com/channel/UCtjIO4smbuyr7wjKHJQKZ8g)
+* <a href="https://www.youtube.com/channel/UCtjIO4smbuyr7wjKHJQKZ8g"><img src="https://img.shields.io/badge/-Youtube-333333?style=for-the-badge&logo=youtube"/></a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=nvkex&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=issues">
