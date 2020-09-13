@@ -30,7 +30,7 @@ Thanks for reading about me. You can connect with me on ..
 
 <a href="https://sourcerer.io/nvkex"><img src="https://img.shields.io/badge/-Sourcerer-333333?style=for-the-badge&logo=sourcerer"/></a>
 
-<a href="https://www.instagram.com/nvkex/"><img src="https://img.shields.io/badge/-Sourcerer-333333?style=for-the-badge&logo=sourcerer"/></a>
+<a href="https://www.instagram.com/nvkex/"><img src="https://img.shields.io/badge/-Instagram-333333?style=for-the-badge&logo=instagram"/></a>
 
 <a href="https://www.twitter.com/nvkex/"><img src="https://img.shields.io/badge/-Twitter-333333?style=for-the-badge&logo=twitter"/></a>
 
