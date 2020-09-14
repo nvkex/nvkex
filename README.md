@@ -27,15 +27,15 @@ Hi, I'm Sumit Bhardwaj — a **Web Developer** building some real stuff. Web Dev
 Thanks for reading about me. You can connect with me on ..
 <div style="display:flex; justify-content:space-between">
 
-<a href="https://www.linkedin.com/in/nvkex/"><img src="https://img.shields.io/badge/-Linkedin-333333?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://www.linkedin.com/in/nvkex/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-333333?style=for-the-badge&logo=linkedin"/></a>
 
-<a href="https://sourcerer.io/nvkex"><img src="https://img.shields.io/badge/-Sourcerer-333333?style=for-the-badge&logo=sourcerer"/></a>
+<a href="https://sourcerer.io/nvkex" target="_blank"><img src="https://img.shields.io/badge/-Sourcerer-333333?style=for-the-badge&logo=sourcerer"/></a>
 
-<a href="https://www.instagram.com/nvkex/"><img src="https://img.shields.io/badge/-Instagram-333333?style=for-the-badge&logo=instagram"/></a>
+<a href="https://www.instagram.com/nvkex/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-333333?style=for-the-badge&logo=instagram"/></a>
 
-<a href="https://www.twitter.com/nvkex/"><img src="https://img.shields.io/badge/-Twitter-333333?style=for-the-badge&logo=twitter"/></a>
+<a href="https://www.twitter.com/nvkex/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-333333?style=for-the-badge&logo=twitter"/></a>
 
-<a href="https://www.youtube.com/channel/UCtjIO4smbuyr7wjKHJQKZ8g"><img src="https://img.shields.io/badge/-Youtube-333333?style=for-the-badge&logo=youtube"/></a>
+<a href="https://www.youtube.com/channel/UCtjIO4smbuyr7wjKHJQKZ8g" target="_blank"><img src="https://img.shields.io/badge/-Youtube-333333?style=for-the-badge&logo=youtube"/></a>
 
 </div>
 
