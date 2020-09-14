@@ -25,6 +25,7 @@ Hi, I'm Sumit Bhardwaj — a **Web Developer** building some real stuff. Web Dev
 ## Thank you and नमस्ते ! 🙏
 
 Thanks for reading about me. You can connect with me on ..
+<div style="display:flex; justify-content:space-between">
 
 <a href="https://www.linkedin.com/in/nvkex/"><img src="https://img.shields.io/badge/-Linkedin-333333?style=for-the-badge&logo=linkedin"/></a>
 
@@ -35,6 +36,8 @@ Thanks for reading about me. You can connect with me on ..
 <a href="https://www.twitter.com/nvkex/"><img src="https://img.shields.io/badge/-Twitter-333333?style=for-the-badge&logo=twitter"/></a>
 
 <a href="https://www.youtube.com/channel/UCtjIO4smbuyr7wjKHJQKZ8g"><img src="https://img.shields.io/badge/-Youtube-333333?style=for-the-badge&logo=youtube"/></a>
+
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=nvkex&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=issues">
