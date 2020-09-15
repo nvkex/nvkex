@@ -18,7 +18,7 @@ Hi, I'm Sumit Bhardwaj — a **Web Developer** building some real stuff. Web Dev
 
 💻 I love _Programming_ and developing new stuffs
 
-🎮 Moding & Playing RPG _Games_
+🎮 Playing RPG _Games_
 
 🎵 _Producing Music_.
 
