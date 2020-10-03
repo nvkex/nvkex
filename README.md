@@ -8,7 +8,7 @@ Hi, I'm Sumit Bhardwaj — a **Web Developer** building some real stuff. Web Dev
 
 :rocket: ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js) 
 
-:bank: ![Mongodb](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)&nbsp; ![Oracle SQL](https://img.shields.io/badge/-OracleSQL-333333?style=for-the-badge&logo=oracle)&nbsp; ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=for-the-badge&logo=firebase)
+:bank: ![Mongodb](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)&nbsp; ![Oracle SQL](https://img.shields.io/badge/-OracleSQL-333333?style=for-the-badge&logo=oracle)
 
 :bike: ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=for-the-badge&logo=javascript)&nbsp; ![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp; ![C](https://img.shields.io/badge/-C-333333?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp; ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python) 
 
