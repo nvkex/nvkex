@@ -4,9 +4,9 @@ Hi, I'm Sumit Bhardwaj — a **Web Developer** building some real stuff. Web Dev
 
 ## I work on .. 💻
 
-:sunrise_over_mountains: ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)&nbsp; ![Vue](https://img.shields.io/badge/-Vue-333333?style=for-the-badge&logo=vue)
+:sunrise_over_mountains: ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)&nbsp; 
 
-:rocket: ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)&nbsp; ![Django](https://img.shields.io/badge/-Django-333333?style=for-the-badge&logo=django) 
+:rocket: ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)&nbsp; 
 
 :bank: ![Mongodb](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)&nbsp; ![Oracle SQL](https://img.shields.io/badge/-OracleSQL-333333?style=for-the-badge&logo=oracle)
 
