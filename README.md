@@ -1,8 +1,10 @@
-## 💖 to Build Web Apps — Full-Stack Developer!
+## 💖 to Build Web Apps and Analyse Data — Developer and Analyst!
 
-Hi, I'm Sumit Bhardwaj — a **Web Developer** building some real stuff. Web Development is something which coincides with my passion and hobby. Always up for a discussion on softwares, business and other opportunity. ✌😏
+Hi, I'm Sumit Bhardwaj. Data Analysis and Web Development is something which coincides with my passion and hobby. Always up for a discussion on softwares, business and other opportunity. ✌😏
 
 ## I work on .. 💻
+
+📈 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-333333?style=for-the-badge&logo=jupyter)&nbsp; ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=for-the-badge&logo=pandas)&nbsp; ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=for-the-badge&logo=numpy)&nbsp; 
 
 :sunrise_over_mountains: ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)&nbsp; 
 
