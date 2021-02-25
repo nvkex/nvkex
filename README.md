@@ -1,16 +1,16 @@
 ## 💖 to Build Web Apps and Analyse Data — Developer and Analyst!
 
-Hi, I'm Sumit Bhardwaj. Data Analysis and Web Development is something which coincides with my passion and hobby. Always up for a discussion on softwares, business and other opportunity. ✌😏
+Hi, I'm Sumit Bhardwaj. Web Development and Data Analysis is something which coincides with my passion and hobby. Always up for a discussion on softwares, business and other opportunity. ✌😏
 
 ## I work on .. 💻
-
-📈 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-333333?style=for-the-badge&logo=jupyter)&nbsp; ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=for-the-badge&logo=pandas)&nbsp; ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=for-the-badge&logo=numpy)&nbsp; 
 
 :sunrise_over_mountains: ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)&nbsp; 
 
 :rocket: ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)&nbsp; 
 
 :bank: ![Mongodb](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)&nbsp; ![Oracle SQL](https://img.shields.io/badge/-OracleSQL-333333?style=for-the-badge&logo=oracle)
+
+📈 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-333333?style=for-the-badge&logo=jupyter)&nbsp; ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=for-the-badge&logo=pandas)&nbsp; ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=for-the-badge&logo=numpy)&nbsp; 
 
 :bike: ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=for-the-badge&logo=javascript)&nbsp; ![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp; ![C](https://img.shields.io/badge/-C-333333?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp; ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python) 
 
