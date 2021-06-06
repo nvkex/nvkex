@@ -1,4 +1,4 @@
-## 💖 to Build Web Apps and Analyse Data — Developer and Analyst!
+## 💖 to do stuff!
 
 Hi, I'm Sumit Bhardwaj. Web Development and Data Analysis is something which coincides with my passion and hobby. Always up for a discussion on softwares, business and other opportunity. ✌😏
 
