@@ -10,8 +10,6 @@ Hi, I'm Sumit Bhardwaj. Web Development and Music is something which coincides w
 
 :bank: ![Mongodb](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)&nbsp; ![Oracle SQL](https://img.shields.io/badge/-OracleSQL-333333?style=for-the-badge&logo=oracle)
 
-📈 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-333333?style=for-the-badge&logo=jupyter)&nbsp; ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=for-the-badge&logo=pandas)&nbsp; ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=for-the-badge&logo=numpy)&nbsp; 
-
 :bike: ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=for-the-badge&logo=javascript)&nbsp; ![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp; ![C](https://img.shields.io/badge/-C-333333?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp; ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python) 
 
 :shipit: ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=for-the-badge&logo=heroku)&nbsp; ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=for-the-badge&logo=netlify)
