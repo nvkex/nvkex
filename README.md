@@ -1,6 +1,6 @@
 ## 💖 to do stuff!
 
-Hi, I'm Sumit Bhardwaj. Web Development and Data Analysis is something which coincides with my passion and hobby. Always up for a discussion on softwares, business and other opportunity. ✌😏
+Hi, I'm Sumit Bhardwaj. Web Development and Music is something which coincides with my passion and hobby. Always up for a discussion on softwares, business and other opportunity. ✌😏
 
 ## I work on .. 💻
 
@@ -30,8 +30,6 @@ Thanks for reading about me. You can connect with me on ..
 <a href="https://sourcerer.io/nvkex" target="_blank"><img src="https://img.shields.io/badge/-Sourcerer-333333?style=for-the-badge&logo=sourcerer"/></a>
 
 <a href="https://www.instagram.com/nvkex/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-333333?style=for-the-badge&logo=instagram"/></a>
-
-<a href="https://www.twitter.com/nvkex/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-333333?style=for-the-badge&logo=twitter"/></a>
 
 <a href="https://www.youtube.com/channel/UCtjIO4smbuyr7wjKHJQKZ8g" target="_blank"><img src="https://img.shields.io/badge/-Youtube-333333?style=for-the-badge&logo=youtube"/></a>
 
