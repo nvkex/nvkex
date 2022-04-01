@@ -23,7 +23,6 @@ Hi, I'm Sumit Bhardwaj. Web Development and Music is something which coincides w
 Thanks for reading about me. You can connect with me on ..
 <div style="display:flex; justify-content:space-between">
 
-<a href="https://www.linkedin.com/in/nvkex/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-333333?style=for-the-badge&logo=linkedin"/></a>
 
 <a href="https://www.youtube.com/channel/UCtjIO4smbuyr7wjKHJQKZ8g" target="_blank"><img src="https://img.shields.io/badge/-Youtube-333333?style=for-the-badge&logo=youtube"/></a>
 
